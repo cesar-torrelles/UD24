@@ -20,6 +20,6 @@ https://github.com/cesar-torrelles/UD24
 ```
 ###   3. Lista de herramientas para poder ejecutarlo:
 ```
-Cualquier navegador Web con lector Javascript Habilitado
+Java Spring 4.0
 ```
 
